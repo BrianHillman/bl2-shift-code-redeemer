@@ -8,8 +8,8 @@ import pickle
 tApi = twitter.Api(
 consumer_key='JX4t5O7M3tphK3uyzjUg',
 consumer_secret='ILgpx3VHoG3rNiUgmSQJdIsKA3z1YPF3nHberHEmOaA',
-access_token_key='69485649-r2RyKAkfojkNrotutRt246Jh452Sfqa72xg1wZeCZ',
-access_token_secret='vVJuQ8fgPFdK8gk4oiG5bT0uPUTUm3QsD27cXdwojY')
+access_token_key='***********************************************************',
+access_token_secret='#########################################################')
 
 codeList = pickle.load(open("api","r"))
 code = "CT5TB-H3ZX9-6TTBJ-JT33J-TFJRK"
